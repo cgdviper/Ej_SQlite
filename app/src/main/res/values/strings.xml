@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ej_SQlite</string>
+    <string name="dni">RUN</string>
+    <string name="nombre_y_apellidos">Nombre y apellidos</string>
+    <string name="modificaci_n_de_datos">MODIFICACIÓN DE DATOS</string>
+    <string name="baja">BAJA</string>
+    <string name="consulta_dni">Consulta RUN</string>
+    <string name="alta">Alta</string>
+    <string name="n_mero">Número</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="run">RUN</string>
+</resources>
